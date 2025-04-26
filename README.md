@@ -43,7 +43,7 @@ irm https://massgrave.dev/get | iex
 
 ---
 
-### Not working ❓
+### 不工作 ❓
 
 - If you are **unable to launch MAS** using the PowerShell method, please refer to **Method 2** listed above.
 - If MAS is launched and the script shows any errors, check for any troubleshooting steps mentioned in blue color and try to follow those.
