@@ -51,7 +51,7 @@ irm https://massgrave.dev/get | iex
 
 ---
 
-> [! 注意]
+> [! 注意 ]
 >
 > - PowerShell 中的 IRM 命令从指定的 URL 下载脚本，而 IEX 命令执行它。
 > - 在执行命令之前始终检查 URL，并在手动下载文件时验证来源。
