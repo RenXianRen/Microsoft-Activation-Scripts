@@ -47,7 +47,7 @@ irm https://massgrave.dev/get | iex
 
 - 如果您无法使用 PowerShell 方法启动 MAS，请参阅上面列出的第 2 种方法。
 - 如果 MAS 已启动且脚本显示任何错误，请检查提到的任何蓝色字样的故障排除步骤，并尝试遵循这些步骤。
-- 如果您有任何问题，请随时在此处与我们联系。 [here](https://massgrave.dev/troubleshoot).
+- 如果您有任何问题，请随时在此处与我们 [联系。](https://massgrave.dev/troubleshoot).
 
 ---
 
